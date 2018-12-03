@@ -6,7 +6,7 @@ The “Monero Font” is modified Century Gothic which was released by Monotype 
 
 ### Introducing: MoneroGothic.otf
 
-This version restores the Monero oddities and glyphs have been added to support XX languages and webfont kits have been created. We release our version under the Creative Commons licence which means that you need acknowlege credit that we're copying Monotype, like they copied from Renner who probably ripped off some lost bauhaus crypto wiz. Available only in bold, for the bold.
+This version restores the Monero oddities and glyphs have been added to support XX languages and webfont kits have been created. We release our version under the Creative Commons licence which means that you need acknowledge credit that we're copying Monotype, like they copied from Renner who probably ripped off some lost bauhaus crypto wiz. Available only in bold, for the bold.
 
 Minimal Latin (W00)
 - English (en)
